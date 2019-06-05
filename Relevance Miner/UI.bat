@@ -1,0 +1,1 @@
+python F:\2019sp\Py\Ö÷º¯Êý\AMAINPythonUI.py
